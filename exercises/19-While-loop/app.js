@@ -7,7 +7,7 @@ function startCounting()
 	{
 		counter ++;
 		console.log(counter);
-        console.log();
+     
         
 	}
 	

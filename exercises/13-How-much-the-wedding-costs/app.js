@@ -2,21 +2,21 @@ let input = prompt('How many people are coming to your wedding?');
 
 // Your code here
 
-function setPrice(param){
+function getPrice(param){
     let price;
 if (param > 200) {
-    price = "$20,000";
+    price = 20000;
 }
 else if (param <= 200 && param > 100) {
-    price = "$15,000";
+    price = 15000;
 }
 else if (param <=100 && param > 50) {
-    price = "$10,000";
+    price = 10000;
 }
 else {
-    price = "$4,000";
+    price = 4000;
 }
 return price;
 }
 
-console.log('Your wedding will cost '+setPrice(input)+' dollars');
+console.log('Your wedding will cost '+getPrice(input)+' dollars');
