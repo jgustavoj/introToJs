@@ -3,5 +3,5 @@ console.log(mySuperVariable);
 
 // Your code below:
 
-var color = 'red';
-console.log(color);
+let color = "red"; 
+console.log(color)

@@ -1,6 +1,7 @@
-const VERSION = '0.9';
+const VERSION = '0.1';
 
 //Change the code below: 
 
+const VERSION_TWO = '0.9';
 
-console.log(VERSION);
+console.log(VERSION_TWO);

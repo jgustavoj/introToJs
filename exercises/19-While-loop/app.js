@@ -1,4 +1,5 @@
 
+
 //fix this function:
 function startCounting()
 {
