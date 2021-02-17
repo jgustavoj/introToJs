@@ -248,7 +248,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
