@@ -281,7 +281,7 @@
         {
             "slug": "23-The-Beatles",
             "title": "23-The-Beatles",
-            "done": false,
+            "done": true,
             "path": "exercises/23-The-Beatles",
             "translations": [
                 "es",
