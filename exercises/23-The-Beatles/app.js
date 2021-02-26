@@ -16,6 +16,4 @@ function sing(){
     return array.join(', ');
 }
 
-//Your code above ^^^
-
 console.log(sing());
